@@ -1,0 +1,11 @@
+SERVICE_ID,ACCOUNT_ID,SERVICE_NUMBER,SERVICE_TYPE,SERVICE_STATUS,PLAN_NAME,PLAN_TYPE,DATA_LIMIT_GB,VOICE_MINUTES,SMS_LIMIT,ACTIVATION_DATE,DEACTIVATION_DATE
+3001,2001,9876543210,Mobile,Active,Basic Prepaid,Prepaid,1,100,100,2025-01-01,
+3002,2002,9876543211,Mobile,Active,Premium Postpaid,Postpaid,50,Unlimited,Unlimited,2025-01-02,
+3003,2003,9876543212,Mobile,Inactive,Basic Prepaid,Prepaid,1,100,100,2025-01-03,2025-06-01
+3004,2004,9876543213,Mobile,Active,Business Postpaid,Postpaid,100,Unlimited,Unlimited,2025-01-04,
+3005,2005,9876543214,Mobile,Active,Basic Prepaid,Prepaid,2,200,200,2025-01-05,
+3006,2006,9876543215,Mobile,Suspended,Standard Postpaid,Postpaid,20,500,Unlimited,2025-01-06,
+3007,2007,9876543216,Mobile,Active,Basic Prepaid,Prepaid,1,100,100,2025-01-07,
+3008,2008,9876543217,Mobile,Active,Premium Postpaid,Postpaid,50,Unlimited,Unlimited,2025-01-08,
+3009,2009,9876543218,Mobile,Active,Basic Prepaid,Prepaid,3,300,300,2025-01-09,
+3010,2010,9876543219,Mobile,Active,Business Postpaid,Postpaid,100,Unlimited,Unlimited,2025-01-10,

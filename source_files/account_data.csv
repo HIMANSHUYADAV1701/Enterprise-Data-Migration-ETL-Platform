@@ -1,0 +1,11 @@
+ACCOUNT_ID,CUSTOMER_ID,ACCOUNT_TYPE,BILL_CYCLE,ACCOUNT_STATUS,CREDIT_LIMIT,BILLING_ADDRESS,BILLING_CITY,BILLING_STATE,BILLING_PINCODE,ACCOUNT_OPEN_DATE
+2001,1001,Prepaid,Monthly,Active,500,123 MG Road,Bangalore,Karnataka,560001,2025-01-01
+2002,1002,Postpaid,Monthly,Active,1000,456 Park Street,Mumbai,Maharashtra,400001,2025-01-02
+2003,1003,Prepaid,Monthly,Inactive,500,789 Anna Salai,Chennai,Tamil Nadu,600001,2025-01-03
+2004,1004,Postpaid,Quarterly,Active,2000,321 Banjara Hills,Hyderabad,Telangana,500001,2025-01-04
+2005,1005,Prepaid,Monthly,Active,500,654 CG Road,Ahmedabad,Gujarat,380001,2025-01-05
+2006,1006,Postpaid,Monthly,Suspended,1500,987 MG Road,Kochi,Kerala,682001,2025-01-06
+2007,1007,Prepaid,Monthly,Active,500,147 Connaught Place,Delhi,Delhi,110001,2025-01-07
+2008,1008,Postpaid,Monthly,Active,1000,258 Jubilee Hills,Hyderabad,Telangana,500033,2025-01-08
+2009,1009,Prepaid,Monthly,Active,500,369 FC Road,Pune,Maharashtra,411001,2025-01-09
+2010,1010,Postpaid,Quarterly,Active,2500,741 Brigade Road,Bangalore,Karnataka,560025,2025-01-10

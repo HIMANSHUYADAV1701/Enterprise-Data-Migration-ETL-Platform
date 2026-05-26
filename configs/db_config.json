@@ -1,0 +1,27 @@
+{
+  "oracle": {
+    "host": "localhost",
+    "port": 1521,
+    "service_name": "ORCLPDB",
+    "username": "mig_user",
+    "password": "mig_password"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "telecom_crm",
+    "username": "",
+    "password": "",
+    "auth_source": "admin"
+  },
+  "batch": {
+    "profile_batch_id": "PROFILE_20250101",
+    "account_batch_id": "ACCOUNT_20250101",
+    "service_batch_id": "SERVICE_20250101"
+  },
+  "source_files": {
+    "profile_file": "source_files/customer_profile.csv",
+    "account_file": "source_files/account_data.csv",
+    "service_file": "source_files/service_data.csv"
+  }
+}

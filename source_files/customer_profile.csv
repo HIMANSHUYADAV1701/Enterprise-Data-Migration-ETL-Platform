@@ -1,0 +1,11 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,MOBILE_NO,DOB,GENDER,ADDRESS,CITY,STATE,PINCODE,CREATED_DATE
+1001,Himanshu,Yadav,himanshu.yadav@email.com,9876543210,1990-05-15,M,123 MG Road,Bangalore,Karnataka,560001,2025-01-01
+1002,Priya,Sharma,priya.sharma@email.com,9876543211,1992-08-20,F,456 Park Street,Mumbai,Maharashtra,400001,2025-01-02
+1003,Ravi,Kumar,ravi.kumar@email.com,9876543212,1988-03-10,M,789 Anna Salai,Chennai,Tamil Nadu,600001,2025-01-03
+1004,Anjali,Singh,anjali.singh@email.com,9876543213,1995-11-25,F,321 Banjara Hills,Hyderabad,Telangana,500001,2025-01-04
+1005,Suresh,Patel,suresh.patel@email.com,9876543214,1985-07-30,M,654 CG Road,Ahmedabad,Gujarat,380001,2025-01-05
+1006,Meena,Nair,meena.nair@email.com,9876543215,1993-02-14,F,987 MG Road,Kochi,Kerala,682001,2025-01-06
+1007,Arun,Verma,arun.verma@email.com,9876543216,1991-09-18,M,147 Connaught Place,Delhi,Delhi,110001,2025-01-07
+1008,Kavita,Reddy,kavita.reddy@email.com,9876543217,1987-12-05,F,258 Jubilee Hills,Hyderabad,Telangana,500033,2025-01-08
+1009,Vikram,Joshi,vikram.joshi@email.com,9876543218,1994-04-22,M,369 FC Road,Pune,Maharashtra,411001,2025-01-09
+1010,Deepa,Pillai,deepa.pillai@email.com,9876543219,1989-06-08,F,741 Brigade Road,Bangalore,Karnataka,560025,2025-01-10
